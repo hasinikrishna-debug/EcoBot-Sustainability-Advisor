@@ -1,0 +1,16 @@
+category,activity,impact,score,recommendation
+Transportation,I travel by car every day,High,80,"Consider public transport, walking, cycling or carpooling when practical."
+Transportation,I use public transport,Low,20,Continue using public transportation whenever it works for your needs.
+Transportation,I walk or cycle to nearby places,Very Low,10,Great choice. Continue walking or cycling for suitable short-distance trips.
+Energy,I leave lights on when I leave the room,High,75,Switch off lights when leaving a room and use natural light when practical.
+Energy,I switch off electrical appliances when not needed,Low,15,Great habit. Continue switching off unused electrical devices.
+Energy,I use air conditioning for many hours,High,70,Reduce unnecessary AC usage and consider a moderate temperature setting.
+Water,I leave the water tap running,High,75,Turn off the tap while brushing or when water is not actively needed.
+Water,I take short showers,Low,15,Good water-saving habit. Continue taking shorter showers.
+Waste,I throw waste without separating it,High,70,"Separate recyclable, organic and general waste where local facilities support it."
+Waste,I recycle paper and other materials,Low,15,Great habit. Continue recycling and separating waste correctly.
+Plastic,I buy bottled water frequently,High,80,Carry a reusable bottle to reduce single-use plastic consumption.
+Plastic,I carry a reusable shopping bag,Very Low,10,Excellent plastic-reduction habit. Continue using reusable bags.
+Food,I waste a lot of food,High,75,Plan portions and store leftovers safely to reduce avoidable food waste.
+Food,I plan my meals and avoid food waste,Low,15,Excellent habit. Continue planning meals and using leftovers responsibly.
+Food,I eat more plant-based meals,Low,20,Including more plant-based meals can be one way to reduce environmental impact.

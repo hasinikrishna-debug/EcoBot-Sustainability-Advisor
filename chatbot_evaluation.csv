@@ -1,0 +1,15 @@
+User Input,Category,Impact,Impact Score,Sustainability Level,Confidence
+I travel by car every day,Transportation,High,80,Needs Improvement,100.0
+I use public transport,Transportation,Low,20,Excellent,100.0
+I leave lights on,Energy,High,75,Needs Improvement,84.55
+I switch off appliances,Energy,Low,15,Excellent,70.71
+I use air conditioning for many hours,Energy,High,70,Needs Improvement,100.0
+I leave the tap running,Water,High,75,Needs Improvement,88.6
+I take short showers,Water,Low,15,Excellent,100.0
+I don't separate my waste,Food,High,75,Needs Improvement,50.5
+I recycle paper,Waste,Low,15,Excellent,81.65
+I buy bottled water,Plastic,High,80,Needs Improvement,85.65
+I use reusable bags,Plastic,Very Low,10,Excellent,37.75
+I waste food,Food,High,75,Needs Improvement,75.85
+I plan my meals,Food,Low,15,Excellent,65.34
+I eat plant based meals,Food,Low,20,Excellent,79.81
